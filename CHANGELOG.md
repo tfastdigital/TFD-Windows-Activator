@@ -5,11 +5,19 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.4] — 2026-10-08
+
+### Changed
+- Renamed to **One Click Free Activation**.
+- Added **Past Updates** (version history) and a **GitHub** link inside the app.
+
+---
+
 ## [2.2.3] — 2026-10-08
 
 ### Changed
 - Action panel reorganised into clearer groups (Get Started, Safety First,
-  Upgrade to Pro, Activate Windows, Tools & Branding, Help & Support).
+  Upgrade to Pro, Activate Windows, Tools, Help & Support).
 - Presentation artwork added for the project page.
 
 ---
@@ -34,8 +42,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 ## [2.2.1] — 2026-10-08
 
 ### Changed
-- Publisher and company metadata is now **TFAST Digital Agency** (application
-  properties, branding and terms).
+- General maintenance and internal improvements.
 
 ---
 
@@ -51,9 +58,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 - **Join Us popup** shown when activation succeeds, with Website, Telegram and
   WhatsApp links, plus a **Join Us** button in the footer.
 - **Activation tools**: Repair Activation, License Details, Clear Notices.
-- **System & branding**: Keep On This PC (install + shortcuts for re-activation),
-  TFD Branding (shows TFAST Digital Agency in this PC's activation info),
-  Activation Record (who activated this PC and when).
+- **Keep On This PC** — installs the tool so you can re-activate later.
 - **Terms & Conditions** in the app and in [TERMS.md](TERMS.md).
 - README now includes the app logo and real screenshots of the tool.
 
@@ -105,6 +110,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.4]: #224--2026-10-08
 [2.2.3]: #223--2026-10-08
 [2.2.2]: #222--2026-10-08
 [2.2.1]: #221--2026-10-08
