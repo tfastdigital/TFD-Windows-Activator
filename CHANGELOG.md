@@ -5,6 +5,20 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.8] — 2026-10-08
+
+### Fixed
+- **No console window appears any more.** Console and PowerShell windows used by
+  the tool now always run hidden, including the activation step.
+- Activation is now applied automatically - no menu has to be answered.
+- Restore-point creation used the wrong command; it is now correct.
+
+### Added
+- A "Checking This PC" report on startup that confirms everything the tool needs
+  is already part of Windows, so **nothing has to be installed**.
+
+---
+
 ## [2.2.7] — 2026-10-08
 
 ### Added
@@ -132,6 +146,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.8]: #228--2026-10-08
 [2.2.7]: #227--2026-10-08
 [2.2.6]: #226--2026-10-08
 [2.2.5]: #225--2026-10-08
