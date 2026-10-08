@@ -5,6 +5,13 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.7] — 2026-10-08
+
+### Added
+- **YouTube** and **TikTok** links in the footer, the success popup and the guide.
+
+---
+
 ## [2.2.6] — 2026-10-08
 
 ### Fixed
@@ -125,6 +132,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.7]: #227--2026-10-08
 [2.2.6]: #226--2026-10-08
 [2.2.5]: #225--2026-10-08
 [2.2.4]: #224--2026-10-08
