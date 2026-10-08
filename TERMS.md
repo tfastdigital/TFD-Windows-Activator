@@ -34,8 +34,7 @@ control and is not responsible for those services.
 
 ## 7. Updates
 Updates are delivered through the **official GitHub Releases page**. Only
-download releases from that page. The updater verifies each download's SHA-256
-before installing.
+download releases from that page, and keep the application up to date.
 
 ## 8. Support
 Support is provided on a best-effort basis through the channels below.
