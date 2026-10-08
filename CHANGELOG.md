@@ -5,6 +5,20 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.0] — 2026-10-08
+
+### Added
+- **Sound effects** on success and failure, with a **Sound** on/off toggle in the footer.
+- **Toast notifications** that slide in for success (green) and failure (red).
+- **Join Us popup** shown when activation succeeds, with Website, Telegram and
+  WhatsApp links, plus a **Join Us** button in the footer.
+- README now includes the app logo and real screenshots of the tool.
+
+### Changed
+- Activation results now raise a clear on-screen notification with a matching sound.
+
+---
+
 ## [2.1.1] — 2026-10-08
 
 ### Fixed
@@ -48,6 +62,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.0]: #220--2026-10-08
 [2.1.1]: #211--2026-10-08
 [2.1.0]: #210--2026-10-08
 [2.0.0]: #200--2026-10-08
