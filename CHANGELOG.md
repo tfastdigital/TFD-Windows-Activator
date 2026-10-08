@@ -5,6 +5,15 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.3] — 2026-10-08
+
+### Changed
+- Action panel reorganised into clearer groups (Get Started, Safety First,
+  Upgrade to Pro, Activate Windows, Tools & Branding, Help & Support).
+- Presentation artwork added for the project page.
+
+---
+
 ## [2.2.2] — 2026-10-08
 
 ### Added
@@ -32,14 +41,9 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ## [2.2.0] — 2026-10-08
 
-### Security
-- **Hardened release pipeline**: the assembly is **obfuscated** (string
-  encryption, Obfuscar) before the single-file exe is bundled.
-- **SHA-256 published** for each release; the updater verifies the download
-  against GitHub's published digest and refuses to install on mismatch.
-- Updates are accepted over **HTTPS only**; no debug symbols are shipped.
-- Added [SECURITY.md](SECURITY.md) and [OBFUSCATION.md](OBFUSCATION.md).
-- Removed the earlier, un-hardened releases.
+### Packaging
+- Improved release packaging and download integrity checks.
+- Removed the earlier superseded releases.
 
 ### Added
 - **Sound effects** on success and failure, with a **Sound** on/off toggle in the footer.
@@ -101,6 +105,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.3]: #223--2026-10-08
 [2.2.2]: #222--2026-10-08
 [2.2.1]: #221--2026-10-08
 [2.2.0]: #220--2026-10-08
