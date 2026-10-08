@@ -5,7 +5,11 @@
 <h1 align="center">TFD Windows Activator</h1>
 
 <p align="center">
-  <strong>Version 2.2.3</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>One Click Free Activation</strong>
+</p>
+
+<p align="center">
+  <strong>Version 2.2.4</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
@@ -14,7 +18,7 @@
 </p>
 
 A clean, professional desktop application that upgrades and activates Windows Pro
-editions with a single click. No command line, no scripts to write — just pick an
+editions with **one click**. No command line, no scripts to write — just pick an
 option and follow the on-screen guidance.
 
 ---
@@ -48,7 +52,6 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Upgrade** eligible editions to Windows Pro
 - **Activate** Windows with a choice of activation profiles
 - **Repair** activation, inspect licence details and clear stale notices
-- **Brand** the activation with TFAST Digital Agency and keep the tool to re-activate later
 - **Verify** that Windows is fully and properly activated
 - **Get alerted** with sounds and on-screen notifications on success or failure
 - **Run safely** — only one copy can run at a time, with clear error reporting
@@ -161,14 +164,14 @@ you a clear verdict:
   services.
 - **License Details** — shows status, channel and expiry.
 - **Clear Notices** — restarts Explorer to clear stale activation notices.
+- **Keep On This PC** — installs the tool so you can **re-activate any time**.
 
-## System & Branding
+---
 
-- **Keep On This PC** — installs the tool to a permanent location and creates
-  Start Menu / Desktop shortcuts, so you can **re-activate any time**.
-- **TFD Branding** — records TFAST Digital Agency in this PC's activation / about
-  information, so it is visible that **TFD activated this PC**.
-- **Activation Record** — shows who activated this PC and when.
+## Past Updates & GitHub
+
+- **Past Updates** — shows the version history inside the app.
+- **GitHub** — opens the project page to download and follow releases.
 
 ---
 
@@ -243,6 +246,10 @@ No. Your restore points and key backup are kept.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
+**v2.2.4**
+- Renamed to **One Click Free Activation**.
+- Added **Past Updates** and a **GitHub** link inside the app.
+
 **v2.2.3**
 - Cleaner, better organised action panel with clearer groups.
 - New presentation artwork.
@@ -253,15 +260,11 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history.
 - Diagnostics, Copy Log, Save Log and Open Log Folder actions.
 - Command runner now enforces timeouts and reports exit codes.
 
-**v2.2.1**
-- Publisher metadata corrected to **TFAST Digital Agency**.
-
 **v2.2.0**
 - Sound effects on success and failure, with a Sound on/off toggle.
 - Toast notifications for success and failure.
 - Join Us popup on successful activation, with community links.
 - Activation tools: Repair Activation, License Details, Clear Notices.
-- System & branding: Keep On This PC, TFD Branding, Activation Record.
 - Terms & Conditions added ([TERMS.md](TERMS.md)).
 
 **v2.1.1**
