@@ -43,9 +43,11 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Protect** yourself with a restore point and a product-key backup
 - **Upgrade** eligible editions to Windows Pro
 - **Activate** Windows with a choice of activation profiles
+- **Repair** activation, inspect licence details and clear stale notices
+- **Brand** the activation with TFAST Digital and keep the tool to re-activate later
 - **Verify** that Windows is fully and properly activated
 - **Get alerted** with sounds and on-screen notifications on success or failure
-- **Stay current** with built-in one-click updates
+- **Stay current** with built-in one-click, hash-verified updates
 
 Everything runs locally on your PC. The tool shows you exactly what it is doing
 in real time in the **Output Log**.
@@ -148,6 +150,37 @@ you a clear verdict:
 
 ---
 
+## Activation Tools
+
+- **Repair Activation** — re-registers the licence and restarts the licensing
+  services.
+- **License Details** — shows status, channel and expiry.
+- **Clear Notices** — restarts Explorer to clear stale activation notices.
+
+## System & Branding
+
+- **Keep On This PC** — installs the tool to a permanent location and creates
+  Start Menu / Desktop shortcuts, so you can **re-activate any time**.
+- **TFD Branding** — records TFAST Digital in this PC's activation / about
+  information, so it is visible that **TFD activated this PC**.
+- **Activation Record** — shows who activated this PC and when.
+
+---
+
+## Security & Integrity
+
+- Released builds ship **no debug symbols** and are **obfuscated** (string
+  encryption) so the binary does not expose how the tool works.
+- Every release publishes a **SHA-256 hash**; the updater verifies each download
+  against it and **refuses to install on mismatch**.
+- Updates are only accepted over **HTTPS**.
+- Download **only** from this repository's Releases page.
+
+See [SECURITY.md](SECURITY.md) for details and [OBFUSCATION.md](OBFUSCATION.md)
+for the protection tooling and test evidence.
+
+---
+
 ## Rolling Back
 
 If you want to undo the upgrade:
@@ -203,9 +236,14 @@ No. Your restore points and key backup are kept.
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
 **v2.2.0**
+- 🔒 Hardened release: **obfuscated** binary, **SHA-256 verified** updates,
+  HTTPS-only, no debug symbols.
 - Sound effects on success and failure, with a Sound on/off toggle.
 - Toast notifications for success and failure.
 - Join Us popup on successful activation, with community links.
+- Activation tools: Repair Activation, License Details, Clear Notices.
+- System & branding: Keep On This PC, TFD Branding, Activation Record.
+- Terms & Conditions added ([TERMS.md](TERMS.md)).
 
 **v2.1.1**
 - Fixed the window title to show the correct version.
@@ -234,6 +272,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history.
 This software is provided "as is", without warranty of any kind. You are
 responsible for how you use it and for complying with the laws and licence terms
 that apply to you. Always keep a restore point and a product-key backup.
+
+See [TERMS.md](TERMS.md) for the full terms and conditions.
 
 © 2026 TFAST Digital.
 
