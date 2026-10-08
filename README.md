@@ -75,13 +75,36 @@ in real time in the **Output Log**.
 
 ## Requirements
 
-| | |
+### To run the tool
+| | Requirement |
 |---|---|
-| **OS** | Windows 8, 8.1, 10 or 11 (Pro upgrade target) |
-| **Privileges** | Administrator (the app requests this automatically) |
-| **Disk** | A few MB |
-| **Internet** | Needed for activation and for update checks |
-| **Account** | A Microsoft account for the *Recommended* activation profile only |
+| **Operating system** | Windows 10 (version 1607 or newer) or Windows 11, **64-bit** |
+| **Privileges** | **Administrator** — required to change licensing. The app asks for this automatically. |
+| **Installation** | **None.** The download is a single self-contained `.exe`. No .NET runtime, no redistributable, no dependency. |
+| **Disk space** | About 100 MB free (the `.exe` extracts itself on first launch) |
+| **Internet** | Required for activation and for update checks |
+| **Microsoft account** | Only for the **Activate (Recommended)** profile |
+
+### Built into Windows — nothing to install
+The tool only uses components that already ship with Windows. It verifies this on
+startup and reports it in the log:
+
+| Component | Used for |
+|---|---|
+| Windows Script Host (`cscript`) | Licence commands |
+| Windows PowerShell 5.1 | Restore points, licence details |
+| Licence Manager (`slmgr.vbs`) | Activation |
+| DISM | Edition support check |
+
+### To activate the target PC
+| | Requirement |
+|---|---|
+| **Editions that can be activated** | Windows 8, 8.1, 10 or 11 (Home/Pro families) |
+| **Editions that can be upgraded** | Most non-Pro editions, via **Upgrade to Pro** |
+
+> **Important:** the tool **activates** Windows 8 / 8.1 / 10 / 11, but it **runs**
+> on Windows 10 1607+ or Windows 11 (64-bit). That is a limit of the modern .NET
+> runtime the app is built on — there is nothing to install to work around it.
 
 ---
 
