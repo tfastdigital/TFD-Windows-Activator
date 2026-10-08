@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 2.2.5</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.6</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
@@ -245,6 +245,9 @@ No. Your restore points and key backup are kept.
 ## Version Notes
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
+
+**v2.2.6**
+- Fixed the in-app GitHub link.
 
 **v2.2.5**
 - Internal reliability and quality improvements.
