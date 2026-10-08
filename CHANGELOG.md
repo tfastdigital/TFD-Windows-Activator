@@ -5,6 +5,14 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.1] — 2026-10-08
+
+### Changed
+- Publisher and company metadata is now **TFAST Digital Agency** (application
+  properties, branding and terms).
+
+---
+
 ## [2.2.0] — 2026-10-08
 
 ### Security
@@ -23,7 +31,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
   WhatsApp links, plus a **Join Us** button in the footer.
 - **Activation tools**: Repair Activation, License Details, Clear Notices.
 - **System & branding**: Keep On This PC (install + shortcuts for re-activation),
-  TFD Branding (shows TFAST Digital in this PC's activation info),
+  TFD Branding (shows TFAST Digital Agency in this PC's activation info),
   Activation Record (who activated this PC and when).
 - **Terms & Conditions** in the app and in [TERMS.md](TERMS.md).
 - README now includes the app logo and real screenshots of the tool.
@@ -76,6 +84,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.1]: #221--2026-10-08
 [2.2.0]: #220--2026-10-08
 [2.1.1]: #211--2026-10-08
 [2.1.0]: #210--2026-10-08
