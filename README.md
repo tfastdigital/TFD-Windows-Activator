@@ -9,13 +9,21 @@
   by <a href="https://tfastdigital.com">TFAST Digital</a>
 </p>
 
-<p align="center">
-  <img src="docs/images/screenshot.png" alt="TFD Windows Activator - main window" width="760">
-</p>
-
 A clean, professional desktop application that upgrades and activates Windows Pro
 editions with a single click. No command line, no scripts to write — just pick an
 option and follow the on-screen guidance.
+
+---
+
+## Screenshots
+
+**Main window — system detection and activation profiles**
+
+<img src="docs/images/screenshot.png" alt="Main window with system info, action buttons and output log" width="760">
+
+**Built-in step-by-step guide, tailored to each Windows version**
+
+<img src="docs/images/screenshot-guide.png" alt="In-app help guide for Windows 8, 8.1, 10 and 11" width="760">
 
 ---
 
@@ -32,18 +40,6 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 
 Everything runs locally on your PC. The tool shows you exactly what it is doing
 in real time in the **Output Log**.
-
----
-
-## Screenshots
-
-**Main window — system detection and activation profiles**
-
-<img src="docs/images/screenshot.png" alt="Main window with system info, action buttons and output log" width="820">
-
-**Built-in step-by-step guide, tailored to each Windows version**
-
-<img src="docs/images/screenshot-guide.png" alt="In-app help guide for Windows 8, 8.1, 10 and 11" width="820">
 
 ---
 
