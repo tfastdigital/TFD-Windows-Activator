@@ -5,8 +5,8 @@
 <h1 align="center">TFD Windows Activator</h1>
 
 <p align="center">
-  <strong>Version 2.2.0</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
-  by <a href="https://tfastdigital.com">TFAST Digital</a>
+  <strong>Version 2.2.1</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
 A clean, professional desktop application that upgrades and activates Windows Pro
@@ -44,7 +44,7 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Upgrade** eligible editions to Windows Pro
 - **Activate** Windows with a choice of activation profiles
 - **Repair** activation, inspect licence details and clear stale notices
-- **Brand** the activation with TFAST Digital and keep the tool to re-activate later
+- **Brand** the activation with TFAST Digital Agency and keep the tool to re-activate later
 - **Verify** that Windows is fully and properly activated
 - **Get alerted** with sounds and on-screen notifications on success or failure
 - **Stay current** with built-in one-click, hash-verified updates
@@ -161,7 +161,7 @@ you a clear verdict:
 
 - **Keep On This PC** — installs the tool to a permanent location and creates
   Start Menu / Desktop shortcuts, so you can **re-activate any time**.
-- **TFD Branding** — records TFAST Digital in this PC's activation / about
+- **TFD Branding** — records TFAST Digital Agency in this PC's activation / about
   information, so it is visible that **TFD activated this PC**.
 - **Activation Record** — shows who activated this PC and when.
 
@@ -235,6 +235,9 @@ No. Your restore points and key backup are kept.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
+**v2.2.1**
+- Publisher metadata corrected to **TFAST Digital Agency**.
+
 **v2.2.0**
 - 🔒 Hardened release: **obfuscated** binary, **SHA-256 verified** updates,
   HTTPS-only, no debug symbols.
@@ -275,5 +278,5 @@ that apply to you. Always keep a restore point and a product-key backup.
 
 See [TERMS.md](TERMS.md) for the full terms and conditions.
 
-© 2026 TFAST Digital.
+© 2026 TFAST Digital Agency.
 
