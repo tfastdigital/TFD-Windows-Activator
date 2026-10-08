@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 2.2.6</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.7</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
@@ -246,6 +246,9 @@ No. Your restore points and key backup are kept.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
+**v2.2.7**
+- Added YouTube and TikTok links.
+
 **v2.2.6**
 - Fixed the in-app GitHub link.
 
@@ -290,8 +293,10 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history.
 ## Support
 
 - **Website:** https://tfastdigital.com
+- **YouTube:** https://www.youtube.com/@TfastDigital
 - **Telegram:** https://t.me/tfasthub
 - **WhatsApp:** https://whatsapp.com/channel/0029VaAYznPK5cDIXJa9nW1a
+- **TikTok:** https://www.tiktok.com/@tfasthub
 
 ---
 
