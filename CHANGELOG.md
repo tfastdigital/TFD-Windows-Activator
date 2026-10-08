@@ -5,6 +5,13 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.6] — 2026-10-08
+
+### Fixed
+- The GitHub link shown in the app now points to the correct project page.
+
+---
+
 ## [2.2.5] — 2026-10-08
 
 ### Changed
@@ -118,6 +125,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.6]: #226--2026-10-08
 [2.2.5]: #225--2026-10-08
 [2.2.4]: #224--2026-10-08
 [2.2.3]: #223--2026-10-08
