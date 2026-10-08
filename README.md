@@ -247,8 +247,7 @@ No. Your restore points and key backup are kept.
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
 **v2.2.5**
-- Strengthened protection against inspection of the application.
-- Detection of debuggers and analysis tools.
+- Internal reliability and quality improvements.
 
 **v2.2.4**
 - Renamed to **One Click Free Activation**.
