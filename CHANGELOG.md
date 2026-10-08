@@ -5,6 +5,16 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.1.1] — 2026-10-08
+
+### Fixed
+- Window title now shows the correct version (was stuck on v2.0).
+
+### Documentation
+- Added the app logo and real screenshots of the tool to the README.
+
+---
+
 ## [2.1.0] — 2026-10-08
 
 ### Added
@@ -38,5 +48,6 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.1.1]: #211--2026-10-08
 [2.1.0]: #210--2026-10-08
 [2.0.0]: #200--2026-10-08
