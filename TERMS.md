@@ -1,6 +1,6 @@
 # Terms & Conditions
 
-**TFD Windows Activator** — © 2026 TFAST Digital. All rights reserved.
+**TFD Windows Activator** — © 2026 TFAST Digital Agency. All rights reserved.
 
 By downloading, installing or using this software you agree to the following.
 
@@ -16,7 +16,7 @@ licence terms that apply to you.
 
 ## 3. No warranty
 The software is provided **"as is"**, without warranty of any kind, express or
-implied. TFAST Digital is not liable for any damage, data loss, loss of service
+implied. TFAST Digital Agency is not liable for any damage, data loss, loss of service
 or other harm arising from its use.
 
 ## 4. Your responsibility
@@ -29,7 +29,7 @@ The tool runs **locally**. It does not upload your files or personal data. It
 contacts the internet only to activate Windows and to check for updates.
 
 ## 6. Third-party services
-Activation and updates may rely on third-party services. TFAST Digital does not
+Activation and updates may rely on third-party services. TFAST Digital Agency does not
 control and is not responsible for those services.
 
 ## 7. Updates
@@ -50,4 +50,4 @@ after an update constitutes acceptance of the revised terms.
 
 ---
 
-*Last updated: 2026 · TFAST Digital*
+*Last updated: 2026 · TFAST Digital Agency*
