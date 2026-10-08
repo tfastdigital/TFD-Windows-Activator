@@ -5,6 +5,23 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.2] — 2026-10-08
+
+### Added
+- **Single-instance guard**: only one copy of the tool can run at a time;
+  launching it again brings the existing window to the front.
+- **Global error handling**: unexpected errors are logged to `error.log` and
+  shown with a clear message instead of closing silently.
+- **Diagnostics & feedback**: Diagnostics, Copy Log, Save Log and Open Log
+  Folder actions for technical support.
+
+### Improved
+- Command runner now enforces a **timeout**, reports **exit codes**, and
+  distinguishes missing executables and timeouts from real failures.
+- Timings shown for commands that take longer than a few seconds.
+
+---
+
 ## [2.2.1] — 2026-10-08
 
 ### Changed
@@ -84,6 +101,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.2]: #222--2026-10-08
 [2.2.1]: #221--2026-10-08
 [2.2.0]: #220--2026-10-08
 [2.1.1]: #211--2026-10-08
