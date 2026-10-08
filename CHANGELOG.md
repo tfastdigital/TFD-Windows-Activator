@@ -5,10 +5,10 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
-## [2.1.0] â€” 2026-10-08
+## [2.1.0] — 2026-10-08
 
 ### Added
-- **Check for Updates** â€” checks the latest release on GitHub and downloads and
+- **Check for Updates** — checks the latest release on GitHub and downloads and
   installs the newest build automatically, then restarts.
 - **Help & Usage guide** covering the correct steps for Windows 8, 8.1, 10 and 11.
 - Version number displayed in the header.
@@ -25,7 +25,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
-## [2.0.0] â€” 2026-10-08
+## [2.0.0] — 2026-10-08
 
 ### Added
 - Complete desktop (WPF) interface to replace the earlier console version.
