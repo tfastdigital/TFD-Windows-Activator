@@ -5,7 +5,7 @@
 <h1 align="center">TFD Windows Activator</h1>
 
 <p align="center">
-  <strong>Version 2.1.1</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.0</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital</a>
 </p>
 
@@ -17,13 +17,21 @@ option and follow the on-screen guidance.
 
 ## Screenshots
 
-**Main window — system detection and activation profiles**
+**Main window — system detection, activation profiles and a live output log**
 
-<img src="docs/images/screenshot.png" alt="Main window with system info, action buttons and output log" width="760">
+<img src="docs/images/screenshot.png" alt="Main window with system info, action buttons and output log" width="820">
+
+**Success popup with community links, shown when activation succeeds**
+
+<img src="docs/images/screenshot-success.png" alt="Success popup with TFAST community links" width="820">
+
+**Toast notifications for success and failure, with optional sounds**
+
+<img src="docs/images/screenshot-notify.png" alt="Success toast notification in the corner of the app" width="820">
 
 **Built-in step-by-step guide, tailored to each Windows version**
 
-<img src="docs/images/screenshot-guide.png" alt="In-app help guide for Windows 8, 8.1, 10 and 11" width="760">
+<img src="docs/images/screenshot-guide.png" alt="In-app help guide for Windows 8, 8.1, 10 and 11" width="820">
 
 ---
 
@@ -36,6 +44,7 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Upgrade** eligible editions to Windows Pro
 - **Activate** Windows with a choice of activation profiles
 - **Verify** that Windows is fully and properly activated
+- **Get alerted** with sounds and on-screen notifications on success or failure
 - **Stay current** with built-in one-click updates
 
 Everything runs locally on your PC. The tool shows you exactly what it is doing
@@ -130,6 +139,15 @@ you a clear verdict:
 
 ---
 
+## Notifications and Sounds
+
+- **On success** — a pleasant chime, a green toast notification, and a
+  **Join Us** popup with the TFAST community links.
+- **On failure** — an alert tone and a red toast with a clear message.
+- **Sound on/off** — click **Sound** in the footer to mute or unmute at any time.
+
+---
+
 ## Rolling Back
 
 If you want to undo the upgrade:
@@ -183,6 +201,11 @@ No. Your restore points and key backup are kept.
 ## Version Notes
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
+
+**v2.2.0**
+- Sound effects on success and failure, with a Sound on/off toggle.
+- Toast notifications for success and failure.
+- Join Us popup on successful activation, with community links.
 
 **v2.1.1**
 - Fixed the window title to show the correct version.
