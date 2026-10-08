@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Version 2.2.7</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.8</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
@@ -245,6 +245,11 @@ No. Your restore points and key backup are kept.
 ## Version Notes
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
+
+**v2.2.8**
+- No console windows - everything runs hidden.
+- Activation is automatic; no menu to answer.
+- Startup check confirming nothing has to be installed.
 
 **v2.2.7**
 - Added YouTube and TikTok links.
