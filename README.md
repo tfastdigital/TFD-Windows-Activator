@@ -5,7 +5,7 @@
 <h1 align="center">TFD Windows Activator</h1>
 
 <p align="center">
-  <strong>Version 2.2.1</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.2</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
 </p>
 
@@ -47,6 +47,7 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Brand** the activation with TFAST Digital Agency and keep the tool to re-activate later
 - **Verify** that Windows is fully and properly activated
 - **Get alerted** with sounds and on-screen notifications on success or failure
+- **Run safely** — only one copy can run at a time, with clear error reporting
 - **Stay current** with built-in one-click, hash-verified updates
 
 Everything runs locally on your PC. The tool shows you exactly what it is doing
@@ -181,6 +182,22 @@ for the protection tooling and test evidence.
 
 ---
 
+## Diagnostics & Feedback
+
+- **Diagnostics** — prints a technical snapshot (OS, runtime, admin state,
+  detection results) to the log.
+- **Copy Log** / **Save Log** — grab the full session log to send to support.
+- **Open Log Folder** — opens the folder containing `error.log`.
+
+If something unexpected happens, the app writes details to
+`%LOCALAPPDATA%\TFAST\WindowsActivator\error.log` and shows a clear message
+instead of closing silently.
+
+**Only one instance** of the tool can run at a time — launching it again brings
+the existing window to the front.
+
+---
+
 ## Rolling Back
 
 If you want to undo the upgrade:
@@ -234,6 +251,12 @@ No. Your restore points and key backup are kept.
 ## Version Notes
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
+
+**v2.2.2**
+- Only one instance can run at a time; a second launch focuses the existing window.
+- Global error handling with `error.log` and a clear on-screen message.
+- Diagnostics, Copy Log, Save Log and Open Log Folder actions.
+- Command runner now enforces timeouts and reports exit codes.
 
 **v2.2.1**
 - Publisher metadata corrected to **TFAST Digital Agency**.
