@@ -5,6 +5,20 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+## [2.2.5] — 2026-10-08
+
+### Protection
+- Strengthened the built-in protection against inspection of the application:
+  symbols, structure and sensitive values are no longer readable in the binary.
+- Detection of debuggers and common analysis tools; activation is refused while
+  the tool is being inspected.
+- Tamper check for signed builds.
+
+### Changed
+- Internal clean-up of how the tool stores its configuration values.
+
+---
+
 ## [2.2.4] — 2026-10-08
 
 ### Changed
@@ -110,6 +124,7 @@ This project follows [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PA
 
 ---
 
+[2.2.5]: #225--2026-10-08
 [2.2.4]: #224--2026-10-08
 [2.2.3]: #223--2026-10-08
 [2.2.2]: #222--2026-10-08
