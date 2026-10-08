@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="docs/images/logo.png" alt="TFD Windows Activator logo" width="128">
+  <img src="docs/images/logo.png" alt="TFD Windows Activator logo" width="112">
 </p>
 
 <h1 align="center">TFD Windows Activator</h1>
 
 <p align="center">
-  <strong>Version 2.2.2</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
+  <strong>Version 2.2.3</strong> &nbsp;·&nbsp; Windows 8 / 8.1 / 10 / 11 &nbsp;·&nbsp;
   by <a href="https://tfastdigital.com">TFAST Digital Agency</a>
+</p>
+
+<p align="center">
+  <img src="docs/images/mockup.png" alt="TFD Windows Activator" width="920">
 </p>
 
 A clean, professional desktop application that upgrades and activates Windows Pro
@@ -48,7 +52,7 @@ TFD Windows Activator gives you a simple, safe and guided way to:
 - **Verify** that Windows is fully and properly activated
 - **Get alerted** with sounds and on-screen notifications on success or failure
 - **Run safely** — only one copy can run at a time, with clear error reporting
-- **Stay current** with built-in one-click, hash-verified updates
+- **Stay current** with built-in one-click updates from GitHub
 
 Everything runs locally on your PC. The tool shows you exactly what it is doing
 in real time in the **Output Log**.
@@ -168,19 +172,6 @@ you a clear verdict:
 
 ---
 
-## Security & Integrity
-
-- Released builds ship **no debug symbols** and are **obfuscated** (string
-  encryption) so the binary does not expose how the tool works.
-- Every release publishes a **SHA-256 hash**; the updater verifies each download
-  against it and **refuses to install on mismatch**.
-- Updates are only accepted over **HTTPS**.
-- Download **only** from this repository's Releases page.
-
-See [SECURITY.md](SECURITY.md) for details and [OBFUSCATION.md](OBFUSCATION.md)
-for the protection tooling and test evidence.
-
----
 
 ## Diagnostics & Feedback
 
@@ -252,6 +243,10 @@ No. Your restore points and key backup are kept.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
+**v2.2.3**
+- Cleaner, better organised action panel with clearer groups.
+- New presentation artwork.
+
 **v2.2.2**
 - Only one instance can run at a time; a second launch focuses the existing window.
 - Global error handling with `error.log` and a clear on-screen message.
@@ -262,8 +257,6 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history.
 - Publisher metadata corrected to **TFAST Digital Agency**.
 
 **v2.2.0**
-- 🔒 Hardened release: **obfuscated** binary, **SHA-256 verified** updates,
-  HTTPS-only, no debug symbols.
 - Sound effects on success and failure, with a Sound on/off toggle.
 - Toast notifications for success and failure.
 - Join Us popup on successful activation, with community links.
